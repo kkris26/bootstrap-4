@@ -17,6 +17,9 @@
         height: 50px;
         font-size: 14px;
     }
+    .hero .aksen2{
+        display: none;
+    }
 
     .img-hero {
   height: 40%;
