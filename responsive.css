@@ -1,0 +1,80 @@
+@media screen and (max-width:440px) {
+    .title{
+        font-size: 24px;
+    }
+    .sub-title{
+        font-size: 12px;
+    }
+    .hero-tagline h1{
+        font-size: 36px;
+    }
+    .hero-tagline p{
+        font-size: 14px;
+    }
+
+    .button-lg-primary{
+        width: 150px;
+        height: 50px;
+        font-size: 14px;
+    }
+
+    .img-hero {
+  height: 40%;
+  z-index: 2;
+  display: none;
+}
+
+/* layanan */
+#layanan h3{
+    font-size: 18px;
+}
+.property-desc{
+    font-size: 10px;
+}
+.card-service{
+    width: 90%;
+    height: 260px;
+}
+/* layanan */
+
+/* search */
+#search .sub-title{
+    font-size: 12px;
+}
+.input-cari .btn-primary{
+    width: 120px;
+    font-size: 12px;
+}
+#search .nav-link{
+    font-size: 10px;
+}
+/* search */
+
+/* fitur */
+.fitur .btn-primary{
+    font-size: 10px;
+      width: 120px;
+  height: 40px;
+}
+/* fitur */
+/* contact */
+.contact{
+    height: 100%;
+}
+/* .contact .wrapper{
+        padding: 50px 10px;
+} */
+.contact h3{
+    font-size: 24px;
+    width: 90%;
+}
+.contact .content p{
+    font-size: 12px;
+}
+
+.contact .question-wrapper h2{
+    font-size: 24px;
+}
+/* contact */
+    
+}
